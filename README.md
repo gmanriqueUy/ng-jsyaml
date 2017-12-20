@@ -57,3 +57,7 @@ Alias of [safeLoad](https://github.com/nodeca/js-yaml#safeload-string---options-
 
 ### stringify (object [, options])
 Alias of [safeDump](https://github.com/nodeca/js-yaml#safedump-object---options-) of [js-yaml](https://github.com/nodeca/js-yaml)
+
+## License
+
+[MIT](https://github.com/gmanriqueUy/ng-jsyaml/blob/master/LICENSE)
