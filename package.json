@@ -1,11 +1,11 @@
 {
   "name": "ng-jsyaml",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "AngularJS wrapper for js-yaml package",
   "main": "angular-jsyaml.js",
   "author": "Gonzalo Manrique <gonzalo@newtrino.uy> (https://newtrino.uy/)",
   "license": "MIT",
   "dependencies": {
-    "js-yaml": "3.10.0"
+    "js-yaml": "3.13.1"
   }
 }
